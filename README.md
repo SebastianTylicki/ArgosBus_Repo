@@ -1,5 +1,5 @@
 ArgosBus
 
 Autorzy:
-Sebastian Tylicki
+Sebastian Tylicki,
 Jakub Wasilewski
